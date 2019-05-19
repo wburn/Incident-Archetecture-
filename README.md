@@ -1,3 +1,3 @@
 # Incident-Architecture
 
-This represents some work I did designing a monitoring and alerting incident management system at Nike.
+This represents some work I did designing a monitoring and alerting incident management system.
